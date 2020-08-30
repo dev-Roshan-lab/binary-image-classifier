@@ -1,0 +1,1 @@
+this is directory where we store all our images for training 
